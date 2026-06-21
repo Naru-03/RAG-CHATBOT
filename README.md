@@ -1,4 +1,5 @@
 Building RAG Chatbots with LangChain
+
 In this example, we'll work on building an AI chatbot from start-to-finish. We will be using LangChain, OpenAI, and Pinecone vector DB, to build a chatbot capable of learning from the external world using Retrieval Augmented Generation (RAG).
 
 We will be using a dataset sourced from the Deepseek R1 ArXiv paper to help our chatbot answer questions about the latest and greatest in the world of AI.
