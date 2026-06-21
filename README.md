@@ -3,13 +3,10 @@ In this example, we'll work on building an AI chatbot from start-to-finish. We w
 
 We will be using a dataset sourced from the Deepseek R1 ArXiv paper to help our chatbot answer questions about the latest and greatest in the world of AI.
 
-By the end of the example we'll have a functioning chatbot and RAG pipeline that can hold a conversation and provide informative responses based on a knowledge base.
-
-Before you begin
 You'll need to get an OpenAI API key and Pinecone API key.
 
 Prerequisites
-Before we start building our chatbot, we need to install some Python libraries. Here's a brief overview of what each library does:
+Here's a brief overview of what each library does:
 
 langchain: This is a library for GenAI. We'll use it to chain together different language models and components for our chatbot.
 openai: This is the official OpenAI Python client. We'll use it to interact with the OpenAI API and generate responses for our chatbot.
